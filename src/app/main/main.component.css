@@ -1,0 +1,24 @@
+.main{
+  background-color: rgba(255,90,96,255);
+}
+.main-nav ul{
+  overflow: hidden;
+  padding: 0.5rem 0;
+  margin: 1rem 0;
+
+}
+.main-nav ul li {
+  float: left;
+  list-style: none;
+}
+.main-nav ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  font-weight:500;
+  padding: 1rem 0;
+  padding-top: 1rem;
+}
+.fa-solid.fa-crown{
+  padding: 0 0.5rem 0 0;
+}

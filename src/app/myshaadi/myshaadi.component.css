@@ -1,0 +1,26 @@
+.main{
+  box-shadow: 0px 0px 10px 0px grey;
+
+}
+.s-main{
+}
+.s-main ul{
+  overflow: hidden;
+  margin:  0 17rem;
+}
+.s-main ul li{
+  float: left;
+  list-style-type: none;
+  margin: 0 3.5rem 0 0;
+  padding: 1rem 0;
+}
+.s-main ul li:hover{
+  border-bottom: 0.3rem solid olive;
+  border-radius: 2.5px;
+}
+.s-main ul li a{
+  text-decoration: none;
+  color: olive;
+  font-size: 17px;
+  font-weight: 400;
+}

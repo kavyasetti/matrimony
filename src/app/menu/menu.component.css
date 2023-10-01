@@ -1,0 +1,338 @@
+
+.main-outer{
+  background: url("../../assets/shine_matrimony_banner.webp") no-repeat center top / cover;
+  padding: 0 0 1rem 0; 
+
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  padding: 2rem 0;
+}
+
+nav li {
+  float: left;
+  color: white;
+}
+
+nav li a {
+  display: block;
+  color: rgb(255, 254, 254);
+  text-align: center;
+  text-decoration: none;
+}
+.mh{
+  padding:  0 0 4rem 0;
+}
+.subh{
+  background:linear-gradient(135deg,rgba(224, 213, 213, 0));
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+  border:1px solid rgba(255,255,255,0.18);
+  overflow: hidden;
+  margin: 3rem 0 3rem 0;
+  padding: 1.5rem 0 1.5rem 0;
+  border-radius: 7px;
+
+}
+.subh1,.subh2,.subh3,.subh4,.subh5,.subh6,.subh7{
+  float: left;
+  margin: 0 1rem;
+  
+
+}
+.subh1,.subh2,.subh3,.subh4,.subh5,.subh6,.subh7 p{
+  color: white;
+}
+.second{
+  background-color: rgba(241,241,242,255);
+}
+.sub-second{
+  overflow: hidden;
+}
+.step1,.step2,.step3{
+  float: left;
+  margin: 3rem 3rem;
+  text-align: center;
+}
+.logo{
+  background-color: rgba(0,188,213,255);
+  border-radius:50%;
+  font-size: 4.5rem;
+  color: white;
+  padding: 3rem 0 3rem 0.3rem;
+  height: 12rem;
+  width: 12rem;
+  margin: 0px auto;
+}
+.step1 a:hover{
+  background-color:blue;
+}
+.third{
+  padding: 0 0  3rem 0;
+}  
+.carousel-control.left,.carousel-control.right{
+  background-image: none !important;
+}
+.carousel-indicators{
+  top: 42rem;
+}
+
+.c1{
+  width: 30%; 
+  float: left;
+  margin: 0 3rem 0 0;
+  border-radius: 7px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: all 200ms;
+}
+.c1:hover{
+  background-color: white;
+transform: scale(1.05);
+}
+.fourth{
+  background-color: rgba(255,90,96,255);
+  margin: 3rem 0 0 0;
+}
+.ff1{
+  margin: 0px 30rem;
+  overflow: hidden;
+  text-align: center;
+}
+.fourth p{
+  float: left;
+}
+.fourth button{
+  border: 2px solid white;
+  background-color: rgba(255,90,96,255);
+  color: white;
+  float: left;
+  padding: 1.5rem 7rem;
+  margin: 3rem 0 3rem 5rem;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 400;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.fourth button:hover{
+  background-color: rgba(255,255,255,255);
+  color: rgba(0,195,222,255);
+}
+/* .logoc{
+  background-color: green;
+  width: 6rem;
+  height: 6rem;
+} */
+.four-sub{
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+}
+.four-sub p a{
+  padding: 0 1rem 0 1rem ;
+  border-right:1px solid blue ;
+  font-size: 15px;
+  font-weight: 400;
+}
+.four-sub2 p{
+  display: inline;
+  padding: 2rem 5rem;
+  border-top:0.1px solid rgb(168, 224, 253) ;
+  border-bottom: 1px solid rgb(168, 224, 253);
+  font-size: 17px;
+  font-weight: 400;
+  color: rgb(156, 155, 155);
+}
+.four-sub2 p i{
+  
+  margin: 0 1rem 0 0;
+}
+.four-sub2{
+  margin: 1.8rem 0 5rem 20% ;
+}
+.f{
+  overflow: hidden;
+  margin: 0 0 5rem 0;
+  /* background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath1038%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%2332325d'%3e%3c/rect%3e%3ccircle r='37.18' cx='423.83' cy='304' fill='url(%26quot%3b%23SvgjsLinearGradient1039%26quot%3b)'%3e%3c/circle%3e%3ccircle r='16.14' cx='1147.71' cy='490.19' fill='url(%26quot%3b%23SvgjsLinearGradient1040%26quot%3b)'%3e%3c/circle%3e%3ccircle r='25.84' cx='1352.15' cy='18.52' fill='url(%26quot%3b%23SvgjsLinearGradient1041%26quot%3b)'%3e%3c/circle%3e%3ccircle r='53.15' cx='989.41' cy='23.87' fill='url(%26quot%3b%23SvgjsLinearGradient1042%26quot%3b)'%3e%3c/circle%3e%3ccircle r='25.9' cx='359.82' cy='392.33' fill='url(%26quot%3b%23SvgjsLinearGradient1043%26quot%3b)'%3e%3c/circle%3e%3ccircle r='28.25' cx='42.03' cy='193.17' fill='url(%26quot%3b%23SvgjsLinearGradient1044%26quot%3b)'%3e%3c/circle%3e%3ccircle r='28.42' cx='1132.01' cy='309.93' fill='%2343468b'%3e%3c/circle%3e%3ccircle r='55.315' cx='583.36' cy='413.55' fill='%2343468b'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath1038'%3e%3crect width='1440' height='560' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='349.46999999999997' y1='304' x2='498.18999999999994' y2='304' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1039'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%234f4484' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1115.43' y1='490.18999999999994' x2='1179.99' y2='490.18999999999994' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1040'%3e%3cstop stop-color='%2332325d' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23424488' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1300.47' y1='18.520000000000003' x2='1403.83' y2='18.520000000000003' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1041'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23464a8f' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='883.11' y1='23.870000000000005' x2='1095.71' y2='23.870000000000005' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1042'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='308.02' y1='392.33' x2='411.62' y2='392.33' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1043'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='-14.469999999999999' y1='193.17' x2='98.53' y2='193.17' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1044'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%234f4484' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e"); */
+}
+.f1,.f2,.f3,.f4{
+  float: left;
+  margin:  0 7.9rem 0 0;
+  text-align: center;
+}
+.f1 a, .f2 a, .f3 a, .f4 a{
+  color: rgb(92, 91, 91);
+  display: inline-block;
+  padding: 0 0 0.5rem;
+}
+
+.footer{
+  background:url("../../assets/w2.svg");
+  width: 100%;
+  height: 310px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0px !important;
+}
+.footer-sub{
+  overflow: hidden;
+  padding: 0px !important;
+  position: relative;
+  top: 25rem;
+
+}
+.footer p{
+  padding: 2rem 0 0.5rem 0;
+  color: rgb(253, 253, 252);
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.container-fluid{
+  padding: 0px !important;
+}
+
+.beautiful-button {
+  position: relative;
+  display: inline-block;
+  background: linear-gradient(to bottom, #1b1c3f, #4a4e91);
+ /* Gradient background */
+  color: white;
+ /* White text color */
+  font-family: "Segoe UI", sans-serif;
+ /* Stylish and legible font */
+  font-weight: bold;
+  font-size: 18px;
+ /* Large font size */
+  border: none;
+ /* No border */
+  border-radius: 30px;
+ /* Rounded corners */
+  padding: 14px 28px;
+ /* Large padding */
+  cursor: pointer;
+ /* Cursor on hover */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+ /* Subtle shadow */
+  animation: button-shimmer 2s infinite;
+  transition: all 0.3s ease-in-out;
+ /* Smooth transition */
+}
+
+/* Hover animation */
+.beautiful-button:hover {
+  background: linear-gradient(to bottom, #2c2f63, #5b67b7);
+  animation: button-particles 1s ease-in-out infinite;
+  transform: translateY(-2px);
+}
+
+/* Click animation */
+.beautiful-button:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Shimmer animation */
+@keyframes button-shimmer {
+  0% {
+    background-position: left top;
+  }
+
+  100% {
+    background-position: right bottom;
+  }
+}
+
+/* Particle animation */
+@keyframes button-particles {
+  0% {
+    background-position: left top;
+  }
+
+  100% {
+    background-position: right bottom;
+  }
+}
+
+.modal-header, h4, .close {
+  background-color: #5cb85c;
+  color:white !important;
+  text-align: center;
+  font-size: 30px;
+}
+.modal-footer {
+  background-color: #f9f9f9;
+}
+.fg{
+  overflow: hidden;
+}
+.select1{
+  float:left;
+}
+.container1 {
+  display: inline;
+  position: relative;
+  padding:1rem 0 0 42px ;
+  margin:1rem 1rem  12px 0;
+  cursor: pointer;
+  font-size: 19px;
+  font: 400 !important;
+  border-radius: 1rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.container1 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  height: 27px;
+  width: 27px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container1:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container1 input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container1 input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container1 .checkmark:after {
+ 	top: 9px;
+	left: 9px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
